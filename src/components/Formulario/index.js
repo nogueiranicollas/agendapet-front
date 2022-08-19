@@ -19,6 +19,10 @@ const Formulario = () => {
         label = 'Serviço'
         placeholder = 'Escolha seu serviço'
       />
+      <CampoTexto 
+        label = 'Status'
+        placeholder = 'Agendado'
+      />
     </form>
   </section>
   )
